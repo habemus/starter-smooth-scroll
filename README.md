@@ -12,7 +12,7 @@ This starter project comes with a menu that adequates itself to the screen width
 
 Besides, when clicking on menu links, the view slides down and up smoothly. Menu also supports external links.
 
-![preview](https://github.com/habemus/starter-responsive-side-menu/raw/master/preview.gif "Preview")
+![preview](https://github.com/habemus/starter-smooth-scroll/raw/master/preview.gif "Preview")
 
 ## File structure
 

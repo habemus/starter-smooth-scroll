@@ -13,7 +13,7 @@ Este projeto base já vem pronto com o funcionamento de um menu que se adequa ao
 
 Além disso, os links do menu direcionam para seções correspondentes ao longo da página, com  animações de transição suave no scroll. O menu também suporta links externos.
 
-![preview](https://github.com/habemus/starter-responsive-side-menu/raw/master/preview.gif "Preview")
+![preview](https://github.com/habemus/starter-smooth-scroll/raw/master/preview.gif "Preview")
 
 ## Organização dos arquivos
 
