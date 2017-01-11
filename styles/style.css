@@ -1,0 +1,57 @@
+/**
+ * Main stylesheet of the project.
+ */
+
+body {
+  background-color: #ffc46e;
+  font-family: 'Oswald', sans-serif;
+}
+
+#main-content {
+}
+
+#main-content section {
+  height: 70vh;
+  color: #ffe774;
+  box-shadow: inset 0px 2px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+#main-content section:first-child {
+  box-shadow: none;
+}
+
+#content-1 {
+  background-color: #fc9a35;
+}
+
+#content-2 {
+  background-color: #f28827;
+}
+
+#content-3 {
+  background-color: #e5781f;
+}
+
+#content-4 {
+  background-color: #dd6710;
+}
+
+/**
+ * Styles used only by large devices
+ */
+@media (min-width: 613px) {
+  #main-content section {
+    padding: 100px 40px;
+  }
+}
+
+/**
+ * Styles used only by small devices
+ * 612px is an appropriate breakpoint for this project,
+ * it may vary acording to interactions and usability
+ */
+@media (max-width: 612px) {
+  #main-content section {
+    padding: 100px 20px;
+  }
+}
